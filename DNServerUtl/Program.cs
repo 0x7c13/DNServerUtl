@@ -1,13 +1,11 @@
 ﻿
-using System.Net;
-using System.Net.Security;
-using System.Security.Cryptography.X509Certificates;
-
 namespace DNServerUtl
 {
     using System;
     using System.Xml.Linq;
-
+    using System.Net;
+    using System.Net.Security;
+    using System.Security.Cryptography.X509Certificates;
 
     class Program
     {
